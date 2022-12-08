@@ -1,8 +1,8 @@
 ## My Projects:
 
-[Ashbnb](https://github.com/ashramki96/Airbnb-) <br>
-[CodeBunny](https://github.com/jameswonlee/CodeBunny)<br>
-[Rabbit](https://github.com/ashramki96/Rabbit-)
+* [Ashbnb](https://github.com/ashramki96/Airbnb-) <br>
+* [CodeBunny](https://github.com/jameswonlee/CodeBunny)<br>
+* [Rabbit](https://github.com/ashramki96/Rabbit-)
 
 ## My Skills:
 
