@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!)](https://git.io/typing-svg)
+
 ## My Projects:
 
 * [Ashbnb](https://github.com/ashramki96/Airbnb-) <br>
